@@ -1,0 +1,23 @@
+<html> 
+
+<head>
+<tittle> <img src="head.jpg"> </tittle>
+</head>
+<body background= "1.jpg">
+<img src="headtwo.jpg">
+
+<front face ="cinzel">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#"> <img src="shop.jpg"> </a>
+
+<a href="#"> <img src="mujeres.jpg"> </a>
+
+<a href="#"> <img src="noticias.jpg"> </a>
+
+<a href="#"> <img src="nosotros.jpg"> </a>
+
+</front>
+
+</body>
+
+</html>
